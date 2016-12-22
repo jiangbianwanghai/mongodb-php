@@ -1,0 +1,15 @@
+{
+    "name": "jiangbianwanghai/mongodb-php",
+    "description": "a demo that used php extension mongodb to do MongoDB",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jiangbianwanghai",
+            "email": "webmaster@jiangbianwanghai.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "mongodb/mongodb": "~1.1"
+    }
+}
